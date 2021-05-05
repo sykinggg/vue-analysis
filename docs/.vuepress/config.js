@@ -30,18 +30,6 @@ module.exports = {
         text: '3.x 版本',
         link: '/v3/new/'
       },
-      {
-        text: '2.x 源码配套视频',
-        link: 'https://coding.imooc.com/class/228.html'
-      },
-      {
-        text: '3.x 源码解析课程',
-        link: 'https://kaiwu.lagou.com/course/courseInfo.htm?courseId=326#/content'
-      },
-      {
-        text: 'React技术揭秘',
-        link: 'https://react.iamkasong.com/'
-      }
     ],
     sidebar: {
       '/v2/': [
